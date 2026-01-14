@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大切だった人",
+  "base_artist": "aiko",
+  "createdAt": "2026-01-14T02:23:40.337578Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大切だった人",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_大切だった人_aiko.txt"
+    }
+  ]
+}
